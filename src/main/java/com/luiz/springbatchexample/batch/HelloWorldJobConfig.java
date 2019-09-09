@@ -1,3 +1,4 @@
+/*
 package com.luiz.springbatchexample.batch;
 
 import com.luiz.springbatchexample.model.Person;
@@ -62,3 +63,4 @@ public class HelloWorldJobConfig {
                 .build();
     }
 }
+*/
